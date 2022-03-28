@@ -4,8 +4,7 @@
 ![JaeSeoKim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedrat&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
 -->
 Actuellement :  
-:hammer: Derniere ligne droite sur le sujet ft_transcendence.  
-:book: Apprentissage du Rust  
+:book: Apprentissage du Rust/Go  
 :book: Révision de l'électronique  
 
 Quelques projets :  
@@ -18,4 +17,4 @@ Langage C++:
 - [Webserv](https://github.com/Cedrat/webserv) : Écriture d'un serveur HTTP en suivant les RFCs d'HTTP. Mise en place d'un reactor pattern a l'aide de la fonction poll et d'un système de CGI.
 
 Mes envies : 
-:four_leaf_clover: Trouver un stage dans le domaine des systèmes embarqués et/ou des projets sur les technologies suivantes : C / C++ / Rust 
+:four_leaf_clover: Trouver un stage dans le domaine des systèmes embarqués et/ou des projets sur les technologies suivantes : C / C++ / Rust / Go
