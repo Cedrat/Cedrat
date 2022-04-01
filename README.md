@@ -4,8 +4,7 @@
 ![JaeSeoKim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedrat&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
 -->
 Actuellement :  
-:book: Apprentissage du Rust/Go  
-:book: Révision de l'électronique  
+:book: Apprentissage du Go/Rust 
 
 Quelques projets :  
 Langage C :
