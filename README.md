@@ -14,6 +14,3 @@ Langage C :
 Langage C++:
 - [ft_containers](https://github.com/Cedrat/ft_containers) : Compréhension et mise en place de copie de trois containers de la std : vector, stack et map. 
 - [Webserv](https://github.com/Cedrat/webserv) : Écriture d'un serveur HTTP en suivant les RFCs d'HTTP. Mise en place d'un reactor pattern a l'aide de la fonction poll et d'un système de CGI.
-
-Mes envies : 
-:four_leaf_clover: Trouver un stage dans le domaine des systèmes embarqués et/ou des projets sur les technologies suivantes : C / C++ / Rust / Go
